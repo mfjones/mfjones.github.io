@@ -33,11 +33,11 @@ ul.undecorated-list li {
   padding: 40px 0 32px 0;
 }
 
-#about-row, #publications, #teaching {
+#about-row, #publications, #teaching, #work-exp {
   border-bottom: 1px solid #bfbfbf;
 }
 
-#publications, #teaching {
+#publications, #teaching, #work-exp {
   margin: 0 0 40px 0;
   padding: 0 0 40px 0;
 }
